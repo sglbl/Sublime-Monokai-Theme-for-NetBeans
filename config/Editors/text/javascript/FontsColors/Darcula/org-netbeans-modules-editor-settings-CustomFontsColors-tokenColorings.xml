@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="identifier" foreColor="white" name="identifier"/>
+    <fontcolor default="number" foreColor="ff9866b8" name="constant"/>
+    <fontcolor default="string" foreColor="orange" name="string"/>
+    <fontcolor default="keyword" name="mod-custom2"/>
+    <fontcolor foreColor="ff666666" name="mod-custom1"/>
+    <fontcolor default="keyword" foreColor="cyan" name="keyword"/>
+    <fontcolor default="operator" foreColor="ffff34b2" name="operator"/>
+</fontscolors>

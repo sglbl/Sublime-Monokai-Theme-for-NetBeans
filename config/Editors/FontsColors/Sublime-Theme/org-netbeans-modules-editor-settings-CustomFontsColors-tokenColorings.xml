@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "http://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor name="mark-occurrences"/>
+    <fontcolor foreColor="white" name="markup-attribute"/>
+    <fontcolor foreColor="ff33ff33" name="private"/>
+    <fontcolor foreColor="ffe6db74" name="string"/>
+    <fontcolor name="deprecated"/>
+    <fontcolor name="error"/>
+    <fontcolor name="interface"/>
+    <fontcolor foreColor="pink" name="entity-reference"/>
+    <fontcolor foreColor="ffff0066" name="operator">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ff9933ff" name="number">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor bgColor="ff272822" foreColor="white" name="default">
+        <font name="Consolas" size="16"/>
+    </fontcolor>
+    <fontcolor foreColor="cyan" name="protected"/>
+    <fontcolor foreColor="cyan" name="public"/>
+    <fontcolor foreColor="fffd971f" name="method-parameter"/>
+    <fontcolor name="warning"/>
+    <fontcolor foreColor="ffff0066" name="keyword"/>
+    <fontcolor foreColor="white" name="class"/>
+    <fontcolor name="local-variable"/>
+    <fontcolor foreColor="ff33ff33" name="identifier">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="white" name="static">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="cyan" name="method"/>
+    <fontcolor foreColor="ff33ff33" name="constructor"/>
+    <fontcolor foreColor="orange" name="markup-element"/>
+    <fontcolor default="string" name="markup-attribute-value"/>
+    <fontcolor name="abstract"/>
+    <fontcolor foreColor="white" name="separator"/>
+    <fontcolor name="enum"/>
+    <fontcolor name="url"/>
+    <fontcolor foreColor="white" name="field"/>
+    <fontcolor foreColor="yellow" name="char"/>
+    <fontcolor foreColor="ff75715e" name="comment"/>
+    <fontcolor foreColor="white" name="unused"/>
+    <fontcolor name="whitespace"/>
+</fontscolors>

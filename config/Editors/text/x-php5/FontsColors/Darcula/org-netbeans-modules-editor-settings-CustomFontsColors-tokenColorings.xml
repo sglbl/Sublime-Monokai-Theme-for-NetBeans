@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="number" foreColor="ff9866b8" name="number"/>
+    <fontcolor default="identifier" foreColor="ff00cccc" name="identifier"/>
+    <fontcolor default="string" foreColor="ffffff66" name="string"/>
+    <fontcolor default="separator" foreColor="white" name="phpopenclose"/>
+    <fontcolor default="method" foreColor="ff00cccc" name="mod-custom1"/>
+    <fontcolor foreColor="white" name="variable"/>
+    <fontcolor default="method" foreColor="ff00c800" name="mod-method">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="comment" name="phpdockeyword"/>
+    <fontcolor default="keyword" foreColor="ffff3366" name="keyword"/>
+    <fontcolor default="operator" foreColor="ffff3478" name="operator"/>
+</fontscolors>

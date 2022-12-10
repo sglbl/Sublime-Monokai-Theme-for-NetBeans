@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "http://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor foreColor="white" name="nbeditor-bracesMatching-match"/>
+    <fontcolor name="coverage-partial"/>
+    <fontcolor foreColor="white" name="text-limit-line-color"/>
+    <fontcolor foreColor="lightGray" name="code-folding"/>
+    <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>
+    <fontcolor bgColor="red" foreColor="white" name="nbeditor-bracesMatching-mismatch"/>
+    <fontcolor name="highlight-caret-row"/>
+    <fontcolor foreColor="white" name="caret-color-overwrite-mode"/>
+    <fontcolor foreColor="lightGray" name="status-bar"/>
+    <fontcolor foreColor="lightGray" name="coverage-covered"/>
+    <fontcolor name="guarded"/>
+    <fontcolor name="trailing-whitespace"/>
+    <fontcolor name="coverage-inferred"/>
+    <fontcolor foreColor="white" name="nbeditor-bracesMatching-mismatch-multichar" underline="red"/>
+    <fontcolor name="remove-surround-code-delete"/>
+    <fontcolor foreColor="lightGray" name="code-folding-border"/>
+    <fontcolor name="west-sidebars-color"/>
+    <fontcolor foreColor="gray" name="status-bar-bold"/>
+    <fontcolor foreColor="lightGray" name="nbeditor-bracesMatching-sidebar"/>
+    <fontcolor foreColor="gray" name="line-number"/>
+    <fontcolor name="readonly-files"/>
+    <fontcolor foreColor="yellow" name="highlight-search"/>
+    <fontcolor foreColor="lightGray" name="code-folding-bar"/>
+    <fontcolor foreColor="ff996600" name="synchronized-text-blocks-ext-slave"/>
+    <fontcolor foreColor="gray" name="indent-guide-lines"/>
+    <fontcolor foreColor="gray" name="indent-whitespace"/>
+    <fontcolor name="block-search"/>
+    <fontcolor bgColor="darkGray" name="selection"/>
+    <fontcolor name="coverage-uncovered"/>
+    <fontcolor name="inc-search"/>
+    <fontcolor name="remove-surround-code-remain"/>
+    <fontcolor foreColor="white" name="nbeditor-bracesMatching-match-multichar"/>
+    <fontcolor foreColor="white" name="caret-color-insert-mode"/>
+    <fontcolor foreColor="orange" name="hyperlinks"/>
+</fontscolors>
